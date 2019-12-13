@@ -4,5 +4,6 @@ public class Principal {
         Cachorro c = new Cachorro();
         System.out.println(c.emitirSom());
         System.out.println(x.emitirSom());
+
     }
 }
