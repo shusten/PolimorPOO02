@@ -3,5 +3,5 @@ public abstract class Animal {
     protected int idade;
     protected int membros ;
 
-    public abstract void emitirSom();
+    public abstract String emitirSom();
 }
